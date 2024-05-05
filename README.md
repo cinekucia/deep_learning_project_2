@@ -11,4 +11,3 @@ yes, no, up, down, left, right, on, off, stop, go, unknown, silence
 ### Initialization
 Clone this repository and install required packages using `pip install -r requirements.txt`.
 Whenever you run a Python script, ensure that you are in `src` directory.
-

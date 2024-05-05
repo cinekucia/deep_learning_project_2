@@ -6,9 +6,6 @@ from typing import Any
 import torch
 import torchaudio
 from torch.utils.data import Dataset
-
-
-from settings import SplitType
 from .utils import get_class_id_from_audio_path
 
 
