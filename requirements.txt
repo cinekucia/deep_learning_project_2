@@ -1,0 +1,14 @@
+torch
+torchvision
+torchaudio
+jupyter
+notebook
+tqdm
+lightning
+torchmetrics
+numpy
+pandas
+scikit-learn
+matplotlib
+librosa
+transformers
